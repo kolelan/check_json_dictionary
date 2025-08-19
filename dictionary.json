@@ -1,0 +1,5 @@
+[
+{"AbstractPart::READ_EQUAL": "Чтение с проверкой на равенство."},
+{"AbstractPart::READ_FALSE": "Чтение с возвратом false при ошибке."},
+{"AbstractPart::READ_SIZE": "Чтение размера данных."}
+]
